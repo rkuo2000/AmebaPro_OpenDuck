@@ -14,7 +14,7 @@
 ---
 ### Servo: STS3215
 
-#### [Arduino STS_Servos driver](https://github.com/DeltaEngine/FeetechStsServos)
+#### Library : [Arduino STS_Servos driver](https://github.com/DeltaEngine/FeetechStsServos)
 
 #### Sketch : [STS_Servos_ListServos.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/STS_Servos_ListServos/STS_Servos_ListServos.ino)
 
