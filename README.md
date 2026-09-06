@@ -15,13 +15,10 @@
 ### Servo: STS3215
 
 #### [Arduino STS_Servos driver](https://github.com/DeltaEngine/FeetechStsServos)
-* [STSServoDriver.h](https://github.com/DeltaEngine/FeetechStsServos/blob/main/src/STSServoDriver.h)
-* [STSServoDriver.cpp](https://github.com/DeltaEngine/FeetechStsServos/blob/main/src/STSServoDriver.cpp)
 
-#### example:
-* [ChangeServoId.ino](https://github.com/DeltaEngine/FeetechStsServos/blob/main/examples/ChangeServoId/ChangeServoId.ino)
-* [SimpleMotion.ino](https://github.com/DeltaEngine/FeetechStsServos/blob/main/examples/SimpleMotion/SimpleMotion.ino)
+#### Sketch : [STS_Servos_ListServos.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/AMB82-mini/STS_Servos_ListServos/STS_Servos_ListServos.ino)
 
+---
 ### Motor IDs
 ```
 {
