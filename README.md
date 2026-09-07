@@ -12,6 +12,18 @@
 | Serial Bus Servo Adapter | <img width="25%" src="https://github.com/rkuo2000/AmebaPro_OpenDuck_Mini/blob/main/pics/OpenDuck_mini_v2_serial_bus_servo_adapter.png?raw=true"> |
 
 ---
+## AmebaPro2
+### [Hub8735-Ultra](https://github.com/ideashatch/HUB-8735)
+<img width="10%" src="https://github.com/rkuo2000/AmebaPro_OpenDuck_Mini/blob/main/pics/Hub8735_Ultra.png?raw=true">
+
+---
+### Servo: STS3215
+
+#### Library : [Arduino STS_Servos driver](https://github.com/DeltaEngine/FeetechStsServos)
+
+#### Sketch : [STS_Servos_ListServos.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/HUB8735-ultra/STS_Servos_ListServos/STS_Servos_ListServos.ino)
+
+---
 ### Motor IDs
 ```
 {
@@ -31,15 +43,3 @@
     "right_ankle": 14,
 }
 ```
-
----
-## AmebaPro2
-### [Hub8735-Ultra](https://github.com/ideashatch/HUB-8735)
-<img width="10%" src="https://github.com/rkuo2000/AmebaPro_OpenDuck_Mini/blob/main/pics/Hub8735_Ultra.png?raw=true">
-
----
-### Servo: STS3215
-
-#### Library : [Arduino STS_Servos driver](https://github.com/DeltaEngine/FeetechStsServos)
-
-#### Sketch : [STS_Servos_ListServos.ino](https://github.com/rkuo2000/EdgeAI-AMB82mini/blob/main/Arduino/HUB8735-ultra/STS_Servos_ListServos/STS_Servos_ListServos.ino)
