@@ -259,7 +259,9 @@ FootTarget left = {
 
 First reduce the XYZ problem into the sagittal plane:
 
-qroll​=atan2(y,−z)
+$$
+qroll​=\atan2(y,−z)
+$$
 
 Then effective vertical distance is:
 
