@@ -301,7 +301,7 @@ $$
 For the hip:
 
 $$
-\alpha=\operatorname{atan2}(x,z_s)
+\alpha=atan2 (x,z_s)
 $$
 
 $$
