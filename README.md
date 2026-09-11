@@ -1138,13 +1138,12 @@ For your AMB82 version of Open Duck Mini, I recommend **not** making the AMB82 i
 Make it a dedicated robot controller:
 
 ```text
-             Original
+          Original = RPi-4B
 MuJoCo/RL → Python/Linux → servo library → STS3215
-                    RPi
 
               ↓
 
-          AMB82 version
+          AMB82-Mini version
 
 Command
   ↓
