@@ -1,5 +1,7 @@
 # AmebaPro_OpenDuck
 
+Note: BNO055 currently not supported by AmebaPro2, replaced by MPU6050
+
 ## OpenDuck Mini v2
 ### source: [Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
 
