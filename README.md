@@ -1,9 +1,10 @@
 # AmebaPro_OpenDuck
 ## Arduino Library for OpenDuck-Mini using AmebaPro2
 
-Note: BNO055 currently not supported by AmebaPro2, replaced by MPU6050
+Note: 
+1. BNO055 currently not supported by AmebaPro2, replaced by MPU6050
 
-
+---
 ## [OpenDuck Mini v2](https://github.com/apirrone/Open_Duck_Mini)
 
 ### PCBs
