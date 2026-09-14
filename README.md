@@ -1,4 +1,4 @@
-# AmebaPro_OpenDuck_Mini
+# AmebaPro_OpenDuck
 
 ## OpenDuck Mini v2
 ### source: [Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
