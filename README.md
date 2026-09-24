@@ -1,4 +1,4 @@
-# AmebaPro_OpenDuck
+# AmebaPro_OpenDuck-Mini
 ## Arduino Library for OpenDuck-Mini using AmebaPro2
 
 Note: 
